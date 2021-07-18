@@ -1,0 +1,154 @@
+Power BI: 
+	
+	"Powering" Business Intelligence.
+	Adding Power to BI.
+
+BI: 
+	Business Intelligence : Intelligence to the business / decision making to the business.
+	We convert business data into decision making data.
+	{It takes hours to days}
+	
+	Introduced early 1990's
+
+	BI data presented through reports / dashboards
+
+BI tools:
+
+	a)Legacy BI tools [from 90's]: Cognos, Hyperion, Microstrategy, SSRS,Crystal Reports, Business Objects etc...
+				Less / medium volumes of data
+				Less customer support [many users can't access at the same time]
+				Limited devices presentation [Web view / Desktop View]
+				Limited sources they will connect [Less than 20 or 30]
+				Mostly structured data sources
+
+	b) Modern BI tools[from 2005]:
+				More volumes of data
+				More customer support [more users]
+				Multiple devices presentation [2012 onwards]: Desktop, Web, Mobile [Tab]
+				Many sources they connect
+				Structured, semi-structured ,and unstructured
+
+		Note: Power BI is modern BI tool + cloud storage + third party application support +
+			hundrds of data sources usage + wonderful data model	
+
+Transactional data / business data [OLTP]: 
+
+	Booking tatkal train ticket
+
+Decision Making data [OLAP / BI]: 
+	
+	Number of trains having full booking in today's tatkal?
+
+BI Process: 
+	
+	Converting normal data into decision making data and presenting through visuals.
+
+	General Public-->OLTP-->ETL LAYER-->DWH--> SEMANTIC LAYER [CUBES]--> REPORTING LAYER-->Customers [Analysts / management team / vps/ data stewards / data scientists / executives]
+
+
+Power BI Desion reason? 
+
+	BI tool cum service designed to 
+
+	“Go from data to insights in minutes. Any data, any way, anywhere. And all in one view.”
+	
+	Initial:  in DWH and BI projects for reporting
+
+	Modern: To extract, transform, store, model, present and shape. [multiple data bases]
+
+Power BI Definition:
+
+	Self Service, cloud based and on-premises, data model supportive, visualization, analytical
+	and reporting tool designed for "Datawarehouse and Business Intelligence " and "Insights and 	Analytics" operations.
+
+
+Power BI End-End Process:
+
+	a)	RETRIEVE DATA [structured, semi structured, and unstructured]
+	b)	Shape  Data [Shaping]
+	c)	Model Data [Modelling]
+	d)	Report Data [Reporting]
+	e)	Publish Report [Publishing]
+	f)	Create Dashboard and mobile report creations
+	g)	Share or subscribe reports and dashboards 
+	h)	Access the reports and dashboard for  customer decision making, analysis, analytics and 		insights
+	i)	Customer Reviews to the designers and other colleagues
+
+What is the Input and Output of Power BI?
+
+	Input: Different types of data
+
+	Output: Reports and Dashboards
+
+Differences between Report and Dashboard?
+
+	Report: 
+		a)Talks about detailed understanding of data. 
+		b) More visuals and broder visuals
+		c)Designed to explain an operation in a subject area / functionality area.
+
+	Dashboard: 
+
+		a) High level understanding of data to take quick decisions.
+		b) Designed to show a specific subject area data /functionality area
+		c) Single view with single or multiple pages
+
+
+
+
+OLTP (ONLINE TRANSACTION PROCESSING):
+
+	OLTP is an abbreviation of ONLINE-TRANSACTION PROCESSING. This system is an
+	Applicable Application that modifies data the instance it receives and has a large
+	number of concurrent users.
+
+OLAP (ONLINE ANALYTICAL PROCESSING):
+
+	OLAP is an abbreviation of ONLINE ANALYTICAL PROCESSING. This system is an application
+	that collects, manages, processes and presents multidimensional data for Analysis and
+	management purposes.
+
+BI [OLAP] Proces is a layered process:
+
+	OLTP-->ETL LAYER-->DWH--> SEMANTIC LAYER [CUBES]--> REPORTING LAYER
+
+
+
+
+Types of Data Available?
+
+	a) Structured
+	b) Semi Structured
+	c) Unstructured
+
+
+Types of IT applications?
+
+	a) Transactional applications [OLTP]
+	b) Analytical applications [BI applications] [OLAP]
+
+Datawarehouse:
+
+	Data huge storage area is Datawarehouse
+
+Data Insight:
+
+	Deep understanding of data and providing the information through visuals.
+
+Data Analytics:
+
+	Applying mathematical and statitical operations of data is called analytics.
+
+
+
+	i)	Customer Reviews to the designers and other colleagues
+
+What is the position of Power BI in the current IT?
+
+	Market leader as per Gartner and Forrestor.
+
+	https://info.microsoft.com/ww-landing-gartner-mq-bi-analytics-2019.html?LCID=EN-US
+	https://info.microsoft.com/ww-landing-Forrester-Wave-Enterprise-BI-platforms-website.html?	LCID=EN-US
+
+
+
