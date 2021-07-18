@@ -1,3 +1,5 @@
+this data for explaing about POWER Bi
+
 Power BI: 
 	
 	"Powering" Business Intelligence.
@@ -92,8 +94,6 @@ Differences between Report and Dashboard?
 		a) High level understanding of data to take quick decisions.
 		b) Designed to show a specific subject area data /functionality area
 		c) Single view with single or multiple pages
-
-
 
 
 OLTP (ONLINE TRANSACTION PROCESSING):
